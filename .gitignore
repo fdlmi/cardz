@@ -1,0 +1,15 @@
+**/*.pyc
+**/__pycache__
+.tox/
+
+# for .dockerignore
+.git
+
+env/
+build/
+dist/
+*.egg-info/
+*~
+
+TODO
+assignement.txt
